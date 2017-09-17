@@ -1,6 +1,7 @@
+**Question**  
 Given a list of numbers, see if you can separate them in to k groups such that each group has the same sum.  
 
-Examples:
+**Examples**
 ```
 Input: list = {2, 1, 3, 5, 6, 4}; k = 3
 Output: true
@@ -14,3 +15,6 @@ Input: list = {2, 1, 14, 5, 6, 16, 21, 3, 9}; k = 3
 Output: false
 This list can be split into three groups of equal sum.
 ```
+
+* Code can be found in KGroups.java  
+* JUnit test cases can be found in KGroupsTest.java
